@@ -25,5 +25,5 @@ I am a third-year Computer Science student at York University with a strong pass
 
 
 ## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?navid06&show_icons=true&theme=dark)
 
